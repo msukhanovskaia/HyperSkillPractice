@@ -1,0 +1,14 @@
+type: code
+custom_name: "Hello, world!"
+files:
+- name: main.py
+  visible: true
+  text: name = input()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7173#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 19 Apr 2023 13:59:35 UTC"
+record: -1
+submission_language: python3

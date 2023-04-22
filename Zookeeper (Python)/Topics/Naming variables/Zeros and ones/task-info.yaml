@@ -1,0 +1,23 @@
+type: number
+files:
+- name: answer.txt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 3
+    placeholder_text: type your solution here
+    initial_state:
+      length: 3
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Solved
+  text: type your solution here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6723#comment
+status: Solved
+feedback:
+  message: "<html>As you can see, this name is rather misleading, so it's better to\
+    \ avoid it when declaring your variables.</html>"
+  time: "Tue, 18 Apr 2023 18:49:10 UTC"
+record: -1
